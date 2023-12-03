@@ -52,5 +52,7 @@ def main(part):
     f.close()
     return sum
 
+print(extract_str_digits("zoneight234"))
+print(calibrate("zoneight234",2))
 print("Part1:",main(1))
 print("Part2:",main(2))
