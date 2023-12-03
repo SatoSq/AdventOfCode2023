@@ -16,9 +16,3 @@ pub fn part1(text: &str) -> u32 {
 
     sum
 }
-
-
-// fn main() {
-//     let text = fs::read_to_string("../1.txt").expect("Should have been able to read the file");
-//     println!("Part 1: {}", part1(text);
-// }
